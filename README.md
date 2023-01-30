@@ -4,13 +4,16 @@ This project challenge is an on-the-job ticket that included starter code that n
 
 ## Horiseon Demo
 
+The following image shows the web application's appearance and functionality:
+
 ![Horiseon webpage screenshot](./Assets/01-html-css-git-homework-demo.png)
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
-## Deployment Links
+## Links
 
-https://github.com/that-devguy/01-challenge
+- Github Repository: https://github.com/that-devguy/01-challenge
 
-https://that-devguy.github.io/01-challenge/
+- Deployed Application: https://that-devguy.github.io/01-challenge/
 
 
 
