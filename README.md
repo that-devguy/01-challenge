@@ -11,9 +11,9 @@ The following image shows the web application's appearance and functionality:
 
 ## Links
 
-- Github Repository: https://github.com/that-devguy/01-challenge
+- Github Repository: https://github.com/that-devguy/Horiseon-Semantics-Challenge
 
-- Deployed Application: https://that-devguy.github.io/01-challenge/
+- Deployed Application: https://that-devguy.github.io/Horiseon-Semantics-Challenge
 
 
 
