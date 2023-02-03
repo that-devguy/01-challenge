@@ -20,6 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* targets the letters "seo" in Horiseon */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -43,13 +44,14 @@ header nav ul li {
 
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none; /* removes underline from nav links */
 }
 
 p {
     font-size: 16px;
 }
 
+/* links and styles the hero image for our website's landing page */
 .hero {
     height: 800px;
     width: 100%;
@@ -83,11 +85,13 @@ main section h2 {
     font-size: 36px;
 }
 
+/* displays our images on the left side of our information */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* displays our images on the right side of our information */
 .float-right {
     float: right;
     margin-left: 25px;
